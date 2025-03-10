@@ -1,0 +1,41 @@
+{
+  "files": {
+    "main.css": "/yixinsheng31/xilingPreserve0.5/static/css/main.d7359821.css",
+    "main.js": "/yixinsheng31/xilingPreserve0.5/static/js/main.6d1cf84c.js",
+    "reactPlayerYouTube.js": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerYouTube.b957c943.chunk.js",
+    "reactPlayerSoundCloud.js": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerSoundCloud.5e07a120.chunk.js",
+    "reactPlayerVimeo.js": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerVimeo.da24ed84.chunk.js",
+    "reactPlayerMux.js": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerMux.afda2132.chunk.js",
+    "reactPlayerFacebook.js": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerFacebook.41acaabe.chunk.js",
+    "reactPlayerStreamable.js": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerStreamable.190a1a3b.chunk.js",
+    "reactPlayerWistia.js": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerWistia.58ccee56.chunk.js",
+    "reactPlayerTwitch.js": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerTwitch.42cc31bc.chunk.js",
+    "reactPlayerDailyMotion.js": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerDailyMotion.6d3a7e89.chunk.js",
+    "reactPlayerMixcloud.js": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerMixcloud.ebe15741.chunk.js",
+    "reactPlayerVidyard.js": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerVidyard.90f95715.chunk.js",
+    "reactPlayerKaltura.js": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerKaltura.567d9956.chunk.js",
+    "reactPlayerFilePlayer.js": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerFilePlayer.58e5e77f.chunk.js",
+    "reactPlayerPreview.js": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerPreview.37385a79.chunk.js",
+    "index.html": "/yixinsheng31/xilingPreserve0.5/index.html",
+    "main.d7359821.css.map": "/yixinsheng31/xilingPreserve0.5/static/css/main.d7359821.css.map",
+    "main.6d1cf84c.js.map": "/yixinsheng31/xilingPreserve0.5/static/js/main.6d1cf84c.js.map",
+    "reactPlayerYouTube.b957c943.chunk.js.map": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerYouTube.b957c943.chunk.js.map",
+    "reactPlayerSoundCloud.5e07a120.chunk.js.map": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerSoundCloud.5e07a120.chunk.js.map",
+    "reactPlayerVimeo.da24ed84.chunk.js.map": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerVimeo.da24ed84.chunk.js.map",
+    "reactPlayerMux.afda2132.chunk.js.map": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerMux.afda2132.chunk.js.map",
+    "reactPlayerFacebook.41acaabe.chunk.js.map": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerFacebook.41acaabe.chunk.js.map",
+    "reactPlayerStreamable.190a1a3b.chunk.js.map": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerStreamable.190a1a3b.chunk.js.map",
+    "reactPlayerWistia.58ccee56.chunk.js.map": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerWistia.58ccee56.chunk.js.map",
+    "reactPlayerTwitch.42cc31bc.chunk.js.map": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerTwitch.42cc31bc.chunk.js.map",
+    "reactPlayerDailyMotion.6d3a7e89.chunk.js.map": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerDailyMotion.6d3a7e89.chunk.js.map",
+    "reactPlayerMixcloud.ebe15741.chunk.js.map": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerMixcloud.ebe15741.chunk.js.map",
+    "reactPlayerVidyard.90f95715.chunk.js.map": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerVidyard.90f95715.chunk.js.map",
+    "reactPlayerKaltura.567d9956.chunk.js.map": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerKaltura.567d9956.chunk.js.map",
+    "reactPlayerFilePlayer.58e5e77f.chunk.js.map": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerFilePlayer.58e5e77f.chunk.js.map",
+    "reactPlayerPreview.37385a79.chunk.js.map": "/yixinsheng31/xilingPreserve0.5/static/js/reactPlayerPreview.37385a79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7359821.css",
+    "static/js/main.6d1cf84c.js"
+  ]
+}
